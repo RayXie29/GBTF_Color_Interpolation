@@ -9,10 +9,10 @@ This is the bayer image from my "Basic_Color_Interpolation" reop which the bayer
 ![alt text](https://raw.githubusercontent.com/RayXie29/GBTF_Color_Interpolation/master/imgs/bayer_pattern_img.bmp)
 
 This is the result from bilinear method which we can see a lot of false color effect.<br />
-![alt text](https://raw.githubusercontent.com/RayXie29/GBTF_Color_Interpolation/master/imgs/Bilinear_example.bmp)
+![alt text](https://raw.githubusercontent.com/RayXie29/GBTF_Color_Interpolation/master/imgs/Bilinear_example.png)
 
 This is the result from GBTF method and it reduces the artifacts very effectively.<br />
-![alt text](https://raw.githubusercontent.com/RayXie29/GBTF_Color_Interpolation/master/imgs/GBTF_example.bmp)
+![alt text](https://raw.githubusercontent.com/RayXie29/GBTF_Color_Interpolation/master/imgs/GBTF_example.png)
 <br />
 <br />
 reference:<br />
